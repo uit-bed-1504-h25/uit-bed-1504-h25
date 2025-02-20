@@ -1,0 +1,2 @@
+# BED-1504: Python-lab
+HER KOMMER DET INFO!
