@@ -3,7 +3,7 @@ Her vil jeg legge ut seminaroppgaver dere kan jobbe med i løpet av semesteret.
 
 Disse vil være et supplement til forelesningene.
 
-| Filnavn    | Uke    | Løsningsforslag   |Tema   |
+| Oppgaver    | Uke    | Løsningsforslag   |Tema   |
 |------------|--------------|-------------|--------------|
 |  Kommer          |    1    |   Kommer             |Introduksjon|
 |  Kommer          |    2    |   Kommer             |Python Basics|
