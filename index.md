@@ -1,6 +1,6 @@
 {% include navbar.html %}  {% include top-box.html %}
 
-## Kursplan  
+## Kursplan (MÅ OPPDATERES TIL PYTHON-LAB)
 Forelesnings- og seminarplanen inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 Informasjon om eksamen og prosjektet, samt frister og ressurser, finner dere også på denne hjemmesiden.  
 
