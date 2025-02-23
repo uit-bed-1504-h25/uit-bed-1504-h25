@@ -19,7 +19,6 @@ For mer informasjon om kurset, se UiT sin [læringsutbyttebeskrivelse](https://u
 
 ## Faglærerinfo  
 - [Markus J. Aase](https://uit.no/ansatte/person?p_document_id=844489&p_dimension_id=88163) (fagansvarlig)
-- [Øystein Myrland](https://uit.no/ansatte/oystein.myrland) (kan bistå på enkelte spørsmål)
 
 I forbindelse med spørsmål til faget, eksamen og prosjektet skal spørsmål henvendes til Markus Aase. 
 
@@ -27,12 +26,8 @@ I forbindelse med spørsmål til faget, eksamen og prosjektet skal spørsmål he
 For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
 
 ## Pensum
-I SOK-3023 *Maskinlæring for økonomer* har vi ingen bok, men vi har følgende pensum:
-* Kompendium designet for dette kurset.
-* Fagstoff som er gjennomgått på fysiske forelesningene.
-
-### Om kompendiet
-Kompendiet er litteratur studentene kan støtte seg på til forelesningene og prosjektet. Alt i kompendiet er pensum, og i dette kurset forventes det en del egenstudium.
+I BED-1504 *Python-lab* har vi ingen bok, men vi har følgende pensum:
+* Forelesninger, og forelesningsnotater (Jupyter Notebooks).
 
 ## Kunngjøringer  
 Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:target="blank"}.
