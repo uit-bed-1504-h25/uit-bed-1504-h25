@@ -7,21 +7,24 @@ Her finner du flere datasett som vi kommer til å bruke i:
 
 ## Hvordan laste ned datasettene manuelt  
 
-Det er flere måter å laste ned datasett fra GitHub på. Følg disse stegene for å laste ned datasettene fra dette repositoriet:  
+Det er flere måter å laste ned datasett fra GitHub på. Nedenfor vises tre ulike alternativ.
 
-### Alternativ 1. Last ned en enkelt fil  
+Følg disse stegene for å laste ned datasettene fra dette repositoriet:  
+
+### 1. Last ned en enkelt fil (enklest, og anbefalt)
 Hvis du ønsker å laste ned én spesifikk fil:  
 1. Gå til **"Data"**-mappen i dette repositoriet.  
 2. Klikk på filen du vil laste ned.  
 3. Trykk på **"Download"**-knappen (ser cirka sånn her ut ⬇️).  
 
-### Alternativ 2. Last ned hele mappen  
+### 2. Last ned hele mappen  
 For å laste ned alle datasettene samtidig:  
-1. Klikk på den grønne **"Code"**-knappen øverst i repositoriet.  
-2. Velg **"Download ZIP"**.  
-3. Pakk ut ZIP-filen på din datamaskin for å få tilgang til datasettene.  
+1. Gå ut av *Data* mappen, men du må være i *uit-bed-1504-h25.github.io* repositoriet.
+2. Klikk på den grønne **"Code"**-knappen øverst i repositoriet.  
+3. Velg **"Download ZIP"**.  
+4. Pakk ut ZIP-filen på din datamaskin for å få tilgang til datasettene.  
 
-### Alternativ 3. Bruke Git (valgfritt!) 
+### 3. Bruke Git (valgfritt!) 
 **OBS:** Krever nedlastning av Git, stegene for å gjøre dette finner dere i **Forelesning 1**.
 
 Hvis du ønsker å klone repositoriet og få tilgang til alle datasettene via Git:  
