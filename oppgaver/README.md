@@ -1,6 +1,8 @@
 # Seminarer
 Her vil jeg legge ut seminaroppgaver dere kan jobbe med i løpet av semesteret.
 
+Nedenfor finner dere en oversikt over oppgavene som blir gitt ut, hvor det også vil legges ut løsningsforslag uka etter seminaret.
+
 Disse vil være et supplement til forelesningene.
 
 | Oppgaver   | Uke     | Løsningsforslag |Tema   |
