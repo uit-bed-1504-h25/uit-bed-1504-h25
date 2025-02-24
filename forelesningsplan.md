@@ -5,7 +5,7 @@ Denne vil oppdateres, og rom nr. finner dere på UiT sin timeplan [her](https://
 
 
 ## Oversikt over forelesninger og seminar.
-Kommentar: Her kan (og mest sannsynligvis vil) det skje endringer.
+**Kommentar:** Her kan (og mest sannsynligvis vil) det skje endringer.
 
 | Tid            | Sted            | Tema               |Type               |
 |----------------|-----------------|--------------------|--------------------|
