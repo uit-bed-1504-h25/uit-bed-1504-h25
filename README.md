@@ -1,2 +1,2 @@
-# BED-1504: Python-lab
-HER KOMMER DET INFO!
+# BED-1304: Python-lab (Nettversjon: BED-1504)
+HER KOMMER DET MER INFORMASJON!
