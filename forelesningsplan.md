@@ -26,15 +26,18 @@ Denne vil oppdateres, og rom nr. finner dere på UiT sin timeplan [her](https://
 | xx.xx.2025 xx:xx-xx:xx   |Tromsø  |7.2 SeaBorn  |Forelesning|
 | xx.xx.2025 xx:xx-xx:xx   |Tromsø  |7.2 SeaBorn  |Seminar|
 | xx.xx.2025 xx:xx-xx:xx   |Tromsø  |8. SymPy  |Forelesning|
-| xx.xx.2025 xx:xx-xx:xx   |Tromsø  |8. SymPy  |Seminar|
+| xx.xx.2025 xx:xx-xx:xx   |Tromsø  |8. SymPy  |Seminar/Jobbe med arbeidskrav|
 | xx.xx.2025 xx:xx-xx:xx   |Tromsø  |9. Simulering  |Forelesning|
 | xx.xx.2025 xx:xx-xx:xx   |Tromsø  |9. Simulering  |Seminar|
-| xx.xx.2025 xx:xx-xx:xx   |Tromsø  |Spørretime |Forberedelse til muntlig eksamen |
+| xx.xx.2025 xx:xx-xx:xx   |Tromsø  |Spørretime |Forberedelse til eksamen |
 |ARBEIDSKRAV|ARBEIDSKRAV|EGENSTUDIUM|EGENSTUDIUM|
 |ARBEIDSKRAV|ARBEIDSKRAV|EGENSTUDIUM|EGENSTUDIUM|
 |ARBEIDSKRAV|ARBEIDSKRAV|EGENSTUDIUM|EGENSTUDIUM|
-|xx.xx.2025  xx:xx    |Tromsø  |INNLEVERING AV arbeidskrav |Canvas lenke for innlevering |
-|xx.xx.2025           |Tromsø  | DIGITAL SKOLEEKSAMEN      |-----------------------------|
+|xx.xx.2025  xx:xx       |Tromsø  |INNLEVERING AV arbeidskrav |Canvas lenke for innlevering |
+| xx.xx.2025 xx:xx-xx:xx |Tromsø  |Spørretime |Seminar/Forberedelse til eksamen |
+| xx.xx.2025 xx:xx-xx:xx |Tromsø  |Spørretime |Seminar/Forberedelse til eksamen |
+| xx.xx.2025 xx:xx-xx:xx |Tromsø  |Spørretime |Seminar/Forberedelse til eksamen |
+|xx.xx.2025              |Tromsø  | DIGITAL SKOLEEKSAMEN      |-----------------------------|
 
 ## Arbeidskrav og egenstudium
 I perioden med prosjektarbeid og egenstudium vil det være mulighet for kontortid med foreleser. Det planlegges direkte sammen med fagansvarlig Markus J. Aase (markus.j.aase@uit.no) og den enkelte gruppe det gjelder.
