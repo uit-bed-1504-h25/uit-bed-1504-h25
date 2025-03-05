@@ -27,14 +27,14 @@ Denne vil oppdateres, og rom nr. finner dere på UiT sin timeplan [her](https://
 | 13.10.2025 xx:xx-xx:xx   |Tromsø  |7.2 SeaBorn  |Forelesning|
 | 14.10.2025 xx:xx-xx:xx   |Tromsø  |7.2 SeaBorn  |Seminar|
 | 15.10.2025 xx:xx-xx:xx   |Tromsø  |8. SymPy  |Forelesning|
-| 20.10.2025 xx:xx-xx:xx   |Tromsø  |8. SymPy  |Seminar/Jobbe med arbeidskrav|
+| 20.10.2025 xx:xx-xx:xx   |Tromsø  |8. SymPy  |Seminar|
 | 27.10.2025 xx:xx-xx:xx   |Tromsø  |9. Simulering  |Forelesning|
+| 28.20.2025  xx:xx        |Tromsø  |INNLEVERING AV arbeidskrav |Canvas lenke for innlevering |
 | 29.10.2025 xx:xx-xx:xx   |Tromsø  |9. Simulering  |Seminar|
 | 03.11.2025 xx:xx-xx:xx   |Tromsø  |Spørretime |Forberedelse til eksamen |
 |ARBEIDSKRAV|ARBEIDSKRAV|EGENSTUDIUM|EGENSTUDIUM|
 |ARBEIDSKRAV|ARBEIDSKRAV|EGENSTUDIUM|EGENSTUDIUM|
 |ARBEIDSKRAV|ARBEIDSKRAV|EGENSTUDIUM|EGENSTUDIUM|
-| 04.11.2025  xx:xx       |Tromsø  |INNLEVERING AV arbeidskrav |Canvas lenke for innlevering |
 | 10.11.2025 xx:xx-xx:xx  |Tromsø  |Spørretime |Seminar/Forberedelse til eksamen |
 | 17.11.2025 xx:xx-xx:xx  |Tromsø  |Spørretime |Seminar/Forberedelse til eksamen |
 | xx.xx.2025              |Tromsø  | DIGITAL SKOLEEKSAMEN      |-----------------------------|
