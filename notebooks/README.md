@@ -14,4 +14,4 @@ I tillegg, vil det også slippes løsningsforslag, som viser mulige løsninger p
 | 7.1            | Matplotlib               | Kommer           | Kommer         |
 | 7.2            | Seaborn                  | Kommer           | Kommer         |
 | 8              | SymPy                    | Kommer           | Kommer         |
-| 9              | Simulering og SciPy      | Kommer           | Kommer         |
+| 9              | Simuleringer             | Kommer           | Kommer         |
