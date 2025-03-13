@@ -9,7 +9,7 @@ Denne vil oppdateres, og rom nr. finner dere på UiT sin timeplan [her](https://
 
 | Tid            | Sted             | Tema               |Type               |
 |----------------|------------------|--------------------|--------------------|
-| 18.08.2025 xx:xx-xx:xx   |Tromsø  |1. Introduksjon |Forelesning|
+| 18.08.2025 xx:xx-xx:xx   |Tromsø  |1. Introduksjon |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/1%20-%20Introduksjon.ipynb)|
 | 20.08.2025 xx:xx-xx:xx   |Tromsø  |1. Introduksjon |Seminar|
 | 25.08.2025 xx:xx-xx:xx   |Tromsø  |2. Python Basics |Forelesning|
 | 27.08.2025 xx:xx-xx:xx   |Tromsø  |2. Python Basics |Seminar|
