@@ -30,13 +30,13 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 14.10.2025 xx:xx-xx:xx   |Tromsø  |7.2 SeaBorn  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar7.2_SeaBorn.ipynb)|
 | 15.10.2025 xx:xx-xx:xx   |Tromsø  |8. SymPy  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/8%20-%20sympy.ipynb)|
 | 20.10.2025 xx:xx-xx:xx   |Tromsø  |8. SymPy  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar8_SymPy.ipynb)|
-| 26.10.2025  xx:xx        |Tromsø  |INNLEVERING AV ARBEIDSKRAV |Canvas lenke for innlevering |
+| 27.10.2025  xx:xx        |Tromsø  |INNLEVERING AV ARBEIDSKRAV |Canvas lenke for innlevering |
 | 27.10.2025 xx:xx-xx:xx   |Tromsø  |9. Simulering  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/9%20-%20simulering.ipynb)|
 | 29.10.2025 xx:xx-xx:xx   |Tromsø  |9. Simulering  |Seminar|
 | 03.11.2025 xx:xx-xx:xx   |Tromsø  |Spørretime |Forberedelse til eksamen |
-|ARBEIDSKRAV|ARBEIDSKRAV|EGENSTUDIUM|EGENSTUDIUM|
-|ARBEIDSKRAV|ARBEIDSKRAV|EGENSTUDIUM|EGENSTUDIUM|
-|ARBEIDSKRAV|ARBEIDSKRAV|EGENSTUDIUM|EGENSTUDIUM|
+|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|
+|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|
+|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|
 | 10.11.2025 xx:xx-xx:xx  |Tromsø  |Spørretime |Seminar/Forberedelse til eksamen |
 | 17.11.2025 xx:xx-xx:xx  |Tromsø  |Spørretime |Seminar/Forberedelse til eksamen |
 | 28.11.2025              |Tromsø  | DIGITAL SKOLEEKSAMEN      |-----------------------------|
