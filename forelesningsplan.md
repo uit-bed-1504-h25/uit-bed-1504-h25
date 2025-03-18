@@ -22,6 +22,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 16.09.2025 xx:xx-xx:xx   |Tromsø  |5. Pandas og databehandling |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar5_Pandas_og_databehandling.ipynb)|
 | 22.09.2025 xx:xx-xx:xx   |Tromsø  |6. Logikk og løkker  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/6%20-%20Logikk_løkker.ipynb)|
 | 23.09.2025 xx:xx-xx:xx   |Tromsø  |6. Logikk og løkker  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar6-Logikk_løkker.ipynb)|
+| 26.09.2025         |Tromsø  |ARBEIDSKRAV BLIR GITT UT |LENKE TIL OPPGAVE |
 | 29.09.2025 - 03.10.2025  |Tromsø  |EGENSTUDIUM-UKE |EGENSTUDIUM-UKE |
 | 06.10.2025 xx:xx-xx:xx   |Tromsø  |7.1 Matplotlib  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/7.1%20-%20matplotlib.ipynb)|
 | 08.10.2025 xx:xx-xx:xx   |Tromsø  |7.1 Matplotlib  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar7.1_Matplotlib.ipynb)|
@@ -29,8 +30,8 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 14.10.2025 xx:xx-xx:xx   |Tromsø  |7.2 SeaBorn  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar7.2_SeaBorn.ipynb)|
 | 15.10.2025 xx:xx-xx:xx   |Tromsø  |8. SymPy  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/8%20-%20sympy.ipynb)|
 | 20.10.2025 xx:xx-xx:xx   |Tromsø  |8. SymPy  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar8_SymPy.ipynb)|
+| 26.10.2025  xx:xx        |Tromsø  |INNLEVERING AV ARBEIDSKRAV |Canvas lenke for innlevering |
 | 27.10.2025 xx:xx-xx:xx   |Tromsø  |9. Simulering  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/9%20-%20simulering.ipynb)|
-| 28.10.2025  xx:xx        |Tromsø  |INNLEVERING AV arbeidskrav |Canvas lenke for innlevering |
 | 29.10.2025 xx:xx-xx:xx   |Tromsø  |9. Simulering  |Seminar|
 | 03.11.2025 xx:xx-xx:xx   |Tromsø  |Spørretime |Forberedelse til eksamen |
 |ARBEIDSKRAV|ARBEIDSKRAV|EGENSTUDIUM|EGENSTUDIUM|
@@ -38,7 +39,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 |ARBEIDSKRAV|ARBEIDSKRAV|EGENSTUDIUM|EGENSTUDIUM|
 | 10.11.2025 xx:xx-xx:xx  |Tromsø  |Spørretime |Seminar/Forberedelse til eksamen |
 | 17.11.2025 xx:xx-xx:xx  |Tromsø  |Spørretime |Seminar/Forberedelse til eksamen |
-| xx.xx.2025              |Tromsø  | DIGITAL SKOLEEKSAMEN      |-----------------------------|
+| 28.11.2025              |Tromsø  | DIGITAL SKOLEEKSAMEN      |-----------------------------|
 
 ## Arbeidskrav og egenstudium
 I perioden med prosjektarbeid og egenstudium vil det være mulighet for kontortid med foreleser. Det planlegges direkte sammen med fagansvarlig Markus J. Aase (markus.j.aase@uit.no) og den enkelte gruppe det gjelder.
