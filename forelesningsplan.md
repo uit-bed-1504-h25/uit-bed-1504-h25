@@ -10,7 +10,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 
 | Tid            | Sted             | Tema               |Type               |
 |----------------|------------------|--------------------|--------------------|
-| 14.08.2025 10:15-12:00   |Tromsø  |1. Introduksjon |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/1%20-%20Introduksjon.ipynb)|
+| 15.08.2025 08:15-11:00   |Tromsø  |1. Introduksjon |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/1%20-%20Introduksjon.ipynb)|
 | 18.08.2025 xx:xx-xx:xx   |Tromsø  |1. Introduksjon |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar1-Introduksjon.ipynb)|
 | 19.08.2025 10:15-12:00   |Tromsø  |2. Python Basics |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/2%20-%20Python_Basics.ipynb)|
 | 21.08.2025 xx:xx-xx:xx   |Tromsø  |2. Python Basics |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar2-PythonBasics.ipynb)|
