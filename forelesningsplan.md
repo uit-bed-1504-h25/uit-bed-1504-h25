@@ -38,7 +38,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 |EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|
 |EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|
 | 10.11.2025 xx:xx-xx:xx  |Tromsø  |Spørretime |Seminar/Forberedelse til eksamen |
-| 17.11.2025 xx:xx-xx:xx  |Tromsø  |Spørretime |Forelesning (reserve - just in case)|
+| 11.11.2025 xx:xx-xx:xx  |Tromsø  |Spørretime |Forelesning (reserve - just in case)|
 | 25.11.2025              |Tromsø  | DIGITAL SKOLEEKSAMEN      |-----------------------------|
 
 
