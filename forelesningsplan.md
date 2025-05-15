@@ -6,7 +6,7 @@ Denne vil oppdateres, og rom nr. finner dere på UiT sin timeplan [her](https://
 
 ## Oversikt over forelesninger og seminar.
 **Kommentar:** Her kan (og mest sannsynligvis vil) det skje endringer.
-Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for de ulike temaene vi skal igjennom i løpet av semesteret!📌
+Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for de ulike temaene vi skal igjennom i løpet av semesteret!📌 Der dere ser **Video**, så er det lagt ut en *forelesningsforberedende* video. Den er ikke ment for å erstatte forelesning, men ment som et supplement til annen undervisning. Ser dere disse korte snuttene, er dere litt forberedt på hva vi snakker om i forelesningene.
 
 | Tid            | Sted             | Tema               |Type               |
 |----------------|------------------|--------------------|--------------------|
