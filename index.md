@@ -17,7 +17,7 @@ Python er verdens nest mest brukte programmeringsspråk i følge GitHub. Språke
 For mer informasjon om kurset, se UiT sin [læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne/874303/bed-1304?ar=2025&semester=H) av kurset.
 
 ## Faglærerinfo  
-- [Stig Uteng](https://uit.no/ansatte/stig.uteng) (fagansvarlig, og foreleser i Tromsø)
+- [Stig Uteng](https://uit.no/ansatte/stig.uteng) (Foreleser på nett)
 
 I forbindelse med spørsmål til faget, eksamen og prosjektet skal spørsmål henvendes til Markus Aase. 
 
