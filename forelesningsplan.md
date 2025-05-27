@@ -25,14 +25,16 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 22.09.2025         |Tromsø  |ARBEIDSKRAV UTLEVERES |LENKE TIL OPPGAVE |
 | 22.09.2025 08:15-10:00   |Tromsø  |7.1 Matplotlib  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/7.1%20-%20matplotlib.ipynb)|
 | 25.09.2025 xx:xx-xx:xx   |Tromsø  |7.1 Matplotlib  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar7.1_Matplotlib.ipynb)|
-| 29.09.2025 08:15-10:00   |Tromsø  |7.2 SeaBorn (utgår) |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/7.2%20-%20SeaBorn.ipynb)|
-| 02.10.2025 xx:xx-xx:xx   |Tromsø  |7.2 SeaBorn (utgår) |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar7.2_SeaBorn.ipynb)|
-| 14.10.2025 08:15-10:00   |Tromsø  |8. SymPy  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/8%20-%20sympy.ipynb)|
-| 16.10.2025 xx:xx-xx:xx   |Tromsø  |8. SymPy  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar8_SymPy.ipynb)|
+| **VALGFRITT**   |Tromsø  |7.2 SeaBorn (ekstra-stoff) |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/7.2%20-%20SeaBorn.ipynb)|
+| **VALGFRITT**    |Tromsø  |7.2 SeaBorn (ekstra-stoff) |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar7.2_SeaBorn.ipynb)|
+| 29.09.2025 08:15-10:00   |Tromsø  |8. SymPy  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/8%20-%20sympy.ipynb)|
+| 02.10.2025 xx:xx-xx:xx   |Tromsø  |8. SymPy  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar8_SymPy.ipynb)|
+| 14.10.2025 08:15-10:00   |Tromsø  |9. Simulering  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/9%20-%20simulering.ipynb)|
+| 16.10.2025 xx:xx-xx:xx   |Tromsø  |9. Simulering  |Seminar/oppgaver fra [forelesningsnotat](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/9%20-%20simulering.ipynb)|
 | 23.10.2025 xx:xx-xx:xx   |Tromsø  |ARBEIDSKRAV  |Seminar|
 | 27.10.2025  xx:xx        |Tromsø  |INNLEVERING AV ARBEIDSKRAV |Canvas lenke for innlevering |
-| 27.10.2025 xx:xx-xx:xx   |Tromsø  |9. Simulering  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/9%20-%20simulering.ipynb)|
-| 29.10.2025 xx:xx-xx:xx   |Tromsø  |9. Simulering  |Seminar/oppgaver fra forelesningsnotat|
+| 27.10.2025 xx:xx-xx:xx   |Tromsø  |Repetisjon/oppsummering  |Forelesning|
+| 29.10.2025 xx:xx-xx:xx   |Tromsø  |Repetisjon  |Seminar/øving til eksamen|
 | 03.11.2025 xx:xx-xx:xx   |Tromsø  |Spørretime |Forelesning - Forberedelse til eksamen |
 |EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|
 |EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|
@@ -40,7 +42,6 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 10.11.2025 xx:xx-xx:xx  |Tromsø  |Spørretime |Seminar/Forberedelse til eksamen |
 | 11.11.2025 xx:xx-xx:xx  |Tromsø  |Spørretime |Forelesning (reserve - just in case)|
 | 25.11.2025              |Tromsø  | DIGITAL SKOLEEKSAMEN      |-----------------------------|
-
 
 ## Arbeidskrav og egenstudium
 I perioden med prosjektarbeid og egenstudium vil det være mulighet for kontortid med foreleser. Det planlegges direkte sammen med fagansvarlig Markus J. Aase (markus.j.aase@uit.no) og den enkelte gruppe det gjelder.
