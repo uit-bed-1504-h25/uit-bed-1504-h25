@@ -25,8 +25,8 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 22.09.2025         |Tromsø  |ARBEIDSKRAV UTLEVERES |LENKE TIL OPPGAVE |
 | 22.09.2025 08:15-10:00   |Tromsø  |7.1 Matplotlib  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/7.1%20-%20matplotlib.ipynb)|
 | 25.09.2025 xx:xx-xx:xx   |Tromsø  |7.1 Matplotlib  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar7.1_Matplotlib.ipynb)|
-| 29.09.2025 08:15-10:00   |Tromsø  |7.2 SeaBorn  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/7.2%20-%20SeaBorn.ipynb)|
-| 02.10.2025 xx:xx-xx:xx   |Tromsø  |7.2 SeaBorn  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar7.2_SeaBorn.ipynb)|
+| 29.09.2025 08:15-10:00   |Tromsø  |7.2 SeaBorn (utgår) |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/7.2%20-%20SeaBorn.ipynb)|
+| 02.10.2025 xx:xx-xx:xx   |Tromsø  |7.2 SeaBorn (utgår) |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar7.2_SeaBorn.ipynb)|
 | 14.10.2025 08:15-10:00   |Tromsø  |8. SymPy  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/8%20-%20sympy.ipynb)|
 | 16.10.2025 xx:xx-xx:xx   |Tromsø  |8. SymPy  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar8_SymPy.ipynb)|
 | 23.10.2025 xx:xx-xx:xx   |Tromsø  |ARBEIDSKRAV  |Seminar|
