@@ -33,8 +33,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 16.10.2025 xx:xx-xx:xx   |Tromsø  |9. Simulering  |Seminar/oppgaver fra [forelesningsnotat](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/9%20-%20simulering.ipynb)|
 | 23.10.2025 xx:xx-xx:xx   |Tromsø  |ARBEIDSKRAV  |Seminar|
 | 27.10.2025  xx:xx        |Tromsø  |INNLEVERING AV ARBEIDSKRAV |Canvas lenke for innlevering |
-| 27.10.2025 xx:xx-xx:xx   |Tromsø  |Repetisjon/oppsummering  |Forelesning[Notebook: SymPy](notebooks/8 - sympy.html)
-|
+| 27.10.2025 xx:xx-xx:xx   |Tromsø  |Repetisjon/oppsummering  |Forelesning|
 | 29.10.2025 xx:xx-xx:xx   |Tromsø  |Repetisjon  |Seminar/øving til eksamen|
 | 03.11.2025 xx:xx-xx:xx   |Tromsø  |Spørretime |Forelesning - Forberedelse til eksamen |
 |EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|
