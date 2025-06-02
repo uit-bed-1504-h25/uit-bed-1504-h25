@@ -28,6 +28,7 @@ title: ''
 
 
 #-------------IKKE SLETT---------------------------------------------------------------------
+baseurl: "uit-bed-1504-h25.github.io"
 theme: jekyll-theme-primer
 markdown: kramdown
 kramdown:
