@@ -8,13 +8,13 @@ Informasjon om eksamen og prosjektet, samt frister og ressurser, finner dere ogs
 - [Eksamen og informasjon om vurdering](eksamen.html){:target="blank"}   
 
 
-[Timeplan](https://tp.educloud.no/uit/timeplan/timeplan.php?id%5B%5D=BED-1304%2C1&type=course&sem=25h&campus=&hide_old=0){:target="blank"} for faget på UiT sine sider.
+[Timeplan](https://tp.educloud.no/uit/timeplan/timeplan.php?id%5B%5D=BED-1504%2C1&type=course&sem=25h&campus=&hide_old=0){:target="blank"} for faget på UiT sine sider.
 
 
 ## Kursbeskrivelse 
 Python er verdens nest mest brukte programmeringsspråk i følge GitHub. Språket er basert på åpen kildekode og er gratis å bruke. Dette kurset gir en enkel innføring i Python anvendt på økonomiske problemstillinger innen statistikk og matematikk. Temaer som inngår i kurset er grunnleggende forståelse av informasjonsteknologi, grunnleggende programmering i Python, bruk av Python til å løse økonomiske problemstillinger, visualisering av matematiske løsninger og visualisering av data.
 
-For mer informasjon om kurset, se UiT sin [læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne/874303/bed-1304?ar=2025&semester=H) av kurset.
+For mer informasjon om kurset, se UiT sin [læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne/874303/bed-1504?ar=2025&semester=H) av kurset.
 
 ## Faglærerinfo  
 - [Stig Uteng](https://uit.no/ansatte/stig.uteng) (Foreleser på nett)
