@@ -4,8 +4,8 @@
 Forelesnings- og seminarplanen inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 Informasjon om eksamen og prosjektet, samt frister og ressurser, finner dere også på denne hjemmesiden.  
 
-- [Oversikt over forelesninger og seminar](forelesningsplan.html){:target="blank"}
-- [Eksamen og informasjon om vurdering](eksamen.html){:target="blank"}   
+- [Oversikt over forelesninger og seminar](/forelesningsplan.html){:target="blank"}
+- [Eksamen og informasjon om vurdering](/eksamen.html){:target="blank"}   
 
 
 [Timeplan](https://tp.educloud.no/uit/timeplan/timeplan.php?id%5B%5D=BED-1504%2C1&type=course&sem=25h&campus=&hide_old=0){:target="blank"} for faget på UiT sine sider.
