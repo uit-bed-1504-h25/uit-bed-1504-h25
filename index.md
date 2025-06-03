@@ -1,6 +1,6 @@
 {% include navbar.html %}  {% include top-box.html %}
 
-## Kursplan (MÅ OPPDATERES TIL PYTHON-LAB)
+## Kursplan for BED-1504 Python Lab
 Forelesnings- og seminarplanen inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 Informasjon om eksamen og prosjektet, samt frister og ressurser, finner dere også på denne hjemmesiden.  
 
