@@ -1,12 +1,12 @@
 {% include navbar.html %}{% include top-box.html %}
 # Forelesningsplan og seminarer (SKAL OPPDATERES!!!)
 Her finner du informasjon om forelesningene og seminarene vi har i kurset.
-Denne vil oppdateres, og rom nr. finner dere på UiT sin timeplan [her](https://timeplan.uit.no/emne_timeplan.php?sem=25v&module=SOK-3023-1).
+Denne vil oppdateres, og rom nr. finner dere på UiT sin timeplan [her](https://tp.educloud.no/uit/timeplan/timeplan.php?id%5B%5D=BED-1504%2C1&type=course&sem=25h&campus=&hide_old=0).
 
 
 ## Oversikt over forelesninger og seminar.
 **Kommentar:** Her kan (og mest sannsynligvis vil) det skje endringer.
-Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for de ulike temaene vi skal igjennom i løpet av semesteret!📌 Der dere ser **Video**, så er det lagt ut en *forelesningsforberedende* video. Den er ikke ment for å erstatte forelesning, men ment som et supplement til annen undervisning. Ser dere disse korte snuttene, er dere litt forberedt på hva vi snakker om i forelesningene.
+Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for de ulike temaene vi skal igjennom i løpet av semesteret!📌 Der dere ser **Video**, så er det lagt ut en *forelesningsforberedende* video, som dere ser på før dere prøver dere på oppgavene.
 
 | Uke            | Sted             | Tema               |Type               |
 |----------------|------------------|--------------------|--------------------|
