@@ -25,7 +25,7 @@ I forbindelse med spørsmål til faget, eksamen og prosjektet skal spørsmål he
 For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
 
 ## Pensum
-I BED-1504 *Python-lab* bruker vi boken "Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming"(https://www.amazon.com/Python-Crash-Course-Eric-Matthes-ebook/dp/B09WJX22TV/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.ST-6MoO7OqvlsneC5UZBvcyZSgtywWHyHFFWYlu8BBs7dD4IRECP6mxfYJbo4bGv6OHn-RW-Rb2JKQGbwJeJ0JrN9e4fGL_uL-T1xOTFTAi9W04ydpYoB6yUDnjA7bZ8rCN-Cy4NXoiLycjrLtvBnprIlZ-6-NI7nV69lN0W3uBXsq2cqmUnMKZyEXta-VJsaImwa587ld4J5h_DMHHGosOzxk_ei3kkrXS2krvCZ30.VdT5wDQZJ5PyE3aFBFtfEZxMayqeDG_72a9PBVdAa90&qid=1747742452&sr=8-1), men hovedkilden for info er:
+I BED-1504 *Python-lab* bruker vi boken "Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming"[Link](https://www.amazon.com/Python-Crash-Course-Eric-Matthes-ebook/dp/B09WJX22TV/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.ST-6MoO7OqvlsneC5UZBvcyZSgtywWHyHFFWYlu8BBs7dD4IRECP6mxfYJbo4bGv6OHn-RW-Rb2JKQGbwJeJ0JrN9e4fGL_uL-T1xOTFTAi9W04ydpYoB6yUDnjA7bZ8rCN-Cy4NXoiLycjrLtvBnprIlZ-6-NI7nV69lN0W3uBXsq2cqmUnMKZyEXta-VJsaImwa587ld4J5h_DMHHGosOzxk_ei3kkrXS2krvCZ30.VdT5wDQZJ5PyE3aFBFtfEZxMayqeDG_72a9PBVdAa90&qid=1747742452&sr=8-1), men hovedkilden for info er:
 * Forelesninger, og forelesningsnotater (Jupyter Notebooks).
 
 ## Kunngjøringer  
