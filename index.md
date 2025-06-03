@@ -19,7 +19,7 @@ For mer informasjon om kurset, se UiT sin [læringsutbyttebeskrivelse](https://u
 ## Faglærerinfo  
 - [Stig Uteng](https://uit.no/ansatte/stig.uteng) (Foreleser på nett)
 
-I forbindelse med spørsmål til faget, eksamen og prosjektet skal spørsmål henvendes til Markus Aase. 
+I forbindelse med spørsmål til faget, eksamen og prosjektet skal spørsmål henvendes til Stig Uteng. 
 
 ## Administrative spørsmål
 For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
