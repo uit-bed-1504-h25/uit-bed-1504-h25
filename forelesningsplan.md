@@ -22,7 +22,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 11.09.2025 xx:xx-xx:xx   |Tromsø  |5. Pandas og databehandling |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar5_Pandas_og_databehandling.ipynb)|
 | 15.09.2025 08:15-10:00   |Tromsø  |6. Logikk og løkker  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/6%20-%20Logikk_løkker.ipynb)/[Video](https://youtu.be/YbAtgj7epfY)|
 | 18.09.2025 xx:xx-xx:xx   |Tromsø  |6. Logikk og løkker  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar6-Logikk_løkker.ipynb)|
-| 22.09.2025         |Tromsø  |ARBEIDSKRAV UTLEVERES |LENKE TIL OPPGAVE |
+| 22.09.2025         |Tromsø  |ARBEIDSKRAV UTLEVERES |LENKE TIL OPPGAVE (kommer) |
 | 22.09.2025 08:15-10:00   |Tromsø  |7 Matplotlib  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/7.1%20-%20matplotlib.ipynb)[Video](https://youtu.be/ALb-Ie-pAx4)|
 | 25.09.2025 xx:xx-xx:xx   |Tromsø  |7 Matplotlib  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar7.1_Matplotlib.ipynb)|
 | 29.09.2025 08:15-10:00   |Tromsø  |8. SymPy  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/8%20-%20sympy.ipynb)[Video](https://youtu.be/ALb-Ie-pAx4)|
