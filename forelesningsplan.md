@@ -45,7 +45,8 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 I perioden med prosjektarbeid og egenstudium vil det være mulighet for kontortid med foreleser. Det planlegges direkte sammen med fagansvarlig Markus J. Aase (markus.j.aase@uit.no) og den enkelte gruppe det gjelder.
 
 ### Valgfritt tema - SeaBorn (en videreutvikling av matplotlib)
-Hvis du ønsker, kan du titte på biblioteket [SeaBorn](https://seaborn.pydata.org/). Det er en videreutvikling av matplotlib, det er bygd *oppå* matplotlib, og egner seg svært godt til statistisk visualisering. Hvis du er interessert, så kan du ta en titt på det.
+Hvis du ønsker, kan du titte på biblioteket [SeaBorn](https://seaborn.pydata.org/). Det er ikke en del av pensum, og kommer ikke på eksamen, men for den interesserte!
+Det er en videreutvikling av matplotlib, som betyr at det er bygd *oppå* matplotlib, og egner seg svært godt til statistisk visualisering. Sjekk det ut!
 
 | Tid            | Sted             | Tema               |Type               |
 |----------------|------------------|--------------------|--------------------|
