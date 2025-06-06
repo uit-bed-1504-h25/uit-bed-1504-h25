@@ -23,13 +23,11 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 15.09.2025 08:15-10:00   |Tromsø  |6. Logikk og løkker  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/6%20-%20Logikk_løkker.ipynb)/[Video](https://youtu.be/YbAtgj7epfY)|
 | 18.09.2025 xx:xx-xx:xx   |Tromsø  |6. Logikk og løkker  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar6-Logikk_løkker.ipynb)|
 | 22.09.2025         |Tromsø  |ARBEIDSKRAV UTLEVERES |LENKE TIL OPPGAVE |
-| 22.09.2025 08:15-10:00   |Tromsø  |7.1 Matplotlib  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/7.1%20-%20matplotlib.ipynb)|
-| 25.09.2025 xx:xx-xx:xx   |Tromsø  |7.1 Matplotlib  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar7.1_Matplotlib.ipynb)|
-| **VALGFRITT**   |Tromsø  |7.2 SeaBorn (ekstra-stoff) |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/7.2%20-%20SeaBorn.ipynb)|
-| **VALGFRITT**    |Tromsø  |7.2 SeaBorn (ekstra-stoff) |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar7.2_SeaBorn.ipynb)|
-| 29.09.2025 08:15-10:00   |Tromsø  |8. SymPy  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/8%20-%20sympy.ipynb)|
+| 22.09.2025 08:15-10:00   |Tromsø  |7 Matplotlib  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/7.1%20-%20matplotlib.ipynb)[Video](https://youtu.be/ALb-Ie-pAx4)|
+| 25.09.2025 xx:xx-xx:xx   |Tromsø  |7 Matplotlib  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar7.1_Matplotlib.ipynb)|
+| 29.09.2025 08:15-10:00   |Tromsø  |8. SymPy  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/8%20-%20sympy.ipynb)[Video](https://youtu.be/ALb-Ie-pAx4)|
 | 02.10.2025 xx:xx-xx:xx   |Tromsø  |8. SymPy  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar8_SymPy.ipynb)|
-| 14.10.2025 08:15-10:00   |Tromsø  |9. Simulering  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/9%20-%20simulering.ipynb)|
+| 14.10.2025 08:15-10:00   |Tromsø  |9. Simulering  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/9%20-%20simulering.ipynb)[Video](https://youtu.be/XAUuQ5sVijE)|
 | 16.10.2025 xx:xx-xx:xx   |Tromsø  |9. Simulering  |Seminar/oppgaver fra [forelesningsnotat](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/9%20-%20simulering.ipynb)|
 | 23.10.2025 xx:xx-xx:xx   |Tromsø  |ARBEIDSKRAV  |Seminar|
 | 27.10.2025  xx:xx        |Tromsø  |INNLEVERING AV ARBEIDSKRAV |Canvas lenke for innlevering |
@@ -45,3 +43,11 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 
 ## Arbeidskrav og egenstudium
 I perioden med prosjektarbeid og egenstudium vil det være mulighet for kontortid med foreleser. Det planlegges direkte sammen med fagansvarlig Markus J. Aase (markus.j.aase@uit.no) og den enkelte gruppe det gjelder.
+
+### Valgfritt tema - SeaBorn (en videreutvikling av matplotlib)
+Hvis du ønsker, kan du titte på biblioteket [SeaBorn](https://seaborn.pydata.org/). Det er en videreutvikling av matplotlib, det er bygd *oppå* matplotlib, og egner seg svært godt til statistisk visualisering. Hvis du er interessert, så kan du ta en titt på det.
+
+| Tid            | Sted             | Tema               |Type               |
+|----------------|------------------|--------------------|--------------------|
+| **VALGFRITT**   |Hjemme  |7.2 SeaBorn (ekstra-stoff) |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/7.2%20-%20SeaBorn.ipynb)|
+| **VALGFRITT**    |Hjemme  |7.2 SeaBorn (ekstra-stoff) |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar7.2_SeaBorn.ipynb)|
