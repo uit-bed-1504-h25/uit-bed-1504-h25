@@ -27,7 +27,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 25.09.2025 xx:xx-xx:xx   |Tromsø  |7 Matplotlib  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar7.1_Matplotlib.ipynb)|
 | 29.09.2025 08:15-10:00   |Tromsø  |8. SymPy  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/8%20-%20sympy.ipynb)/[Video](https://youtu.be/XAUuQ5sVijE)|
 | 02.10.2025 xx:xx-xx:xx   |Tromsø  |8. SymPy  |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar8_SymPy.ipynb)|
-| 14.10.2025 08:15-10:00   |Tromsø  |9. Simulering  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/9%20-%20simulering.ipynb)/[Video](https://youtu.be/UDG02vOqjT4)|
+| 14.10.2025 08:15-10:00   |Tromsø  |9. Simulering  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/9%20-%20simulering.ipynb)/[Video](https://youtu.be/Vae0YXmOF8M)|
 | 16.10.2025 xx:xx-xx:xx   |Tromsø  |9. Simulering  |Seminar/oppgaver fra [forelesningsnotat](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/9%20-%20simulering.ipynb)|
 | 23.10.2025 xx:xx-xx:xx   |Tromsø  |ARBEIDSKRAV  |Seminar|
 | 27.10.2025  xx:xx        |Tromsø  |INNLEVERING AV ARBEIDSKRAV |Canvas lenke for innlevering |
