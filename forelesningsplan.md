@@ -27,9 +27,9 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 40             |Nett  |7.1 Matplotlib  |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar7.1_Matplotlib.ipynb)|
 | 40             |Nett  |7.2 SeaBorn  |[Forelesning](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/notebooks/7.2%20-%20SeaBorn.ipynb)|
 | 40             |Nett  |7.2 SeaBorn  |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar7.2_SeaBorn.ipynb)|
+| 42             |Nett  |9. Simulering  |[Forelesning](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/notebooks/9%20-%20simulering.ipynb)|
+| 42             |Nett  |9. Simulering  |Seminar/oppgaver fra forelesningsnotat|
 | 44             |Nett  |INNLEVERING AV ARBEIDSKRAV |Canvas lenke for innlevering |
-| 44             |Nett  |9. Simulering  |[Forelesning](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/notebooks/9%20-%20simulering.ipynb)|
-| 44             |Nett  |9. Simulering  |Seminar/oppgaver fra forelesningsnotat|
 | 46             |Nett  |Spørretime |Forberedelse til eksamen |
 |EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|
 |EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|
