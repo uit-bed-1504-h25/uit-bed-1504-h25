@@ -16,17 +16,17 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 34             |Nett  |2. Python Basics |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar2-PythonBasics.ipynb)|
 | 36             |Nett  |3. Funksjoner    |[Forelesning](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/notebooks/3%20-%20Funksjoner.ipynb)/[Video](https://youtu.be/u1FSeJdB3LU)|
 | 36             |Nett  |3. Funksjoner    |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar3-Funksjoner.ipynb)|
-| 38             |Nett |4. Lister, dict. og NumPy |[Forelesning](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/notebooks/4%20-%20lister_oppslag_numpy.ipynb)/[Video](https://youtu.be/kgcOG7q2dq4)|
-| 38             |Nett  |4. Lister, dict. og NumPy |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar4_Lister_Dict_Numpy.ipynb)|
-| 40             |Nett  |5. Pandas og databehandling |[Forelesning](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/notebooks/5%20-%20Pandas_og_databehandling.ipynb)/[Video](https://youtu.be/kPINFf-sdaI)|
-| 40             |Nett  |5. Pandas og databehandling |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar5_Pandas_og_databehandling.ipynb)|
-| 40             |Nett  |6. Logikk og løkker  |[Forelesning](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/notebooks/6%20-%20Logikk_løkker.ipynb)/[Video](https://youtu.be/YbAtgj7epfY)|
-| 40             |Nett  |6. Logikk og løkker  |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar6-Logikk_løkker.ipynb)|
-| 42             |Nett  |ARBEIDSKRAV UTLEVERES |LENKE TIL OPPGAVE |
-| 42             |Nett  |7.1 Matplotlib  |[Forelesning](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/notebooks/7.1%20-%20matplotlib.ipynb)|
-| 42             |Nett  |7.1 Matplotlib  |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar7.1_Matplotlib.ipynb)|
-| 42             |Nett  |7.2 SeaBorn  |[Forelesning](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/notebooks/7.2%20-%20SeaBorn.ipynb)|
-| 42             |Nett  |7.2 SeaBorn  |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar7.2_SeaBorn.ipynb)|
+| 36             |Nett |4. Lister, dict. og NumPy |[Forelesning](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/notebooks/4%20-%20lister_oppslag_numpy.ipynb)/[Video](https://youtu.be/kgcOG7q2dq4)|
+| 36             |Nett  |4. Lister, dict. og NumPy |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar4_Lister_Dict_Numpy.ipynb)|
+| 38             |Nett  |5. Pandas og databehandling |[Forelesning](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/notebooks/5%20-%20Pandas_og_databehandling.ipynb)/[Video](https://youtu.be/kPINFf-sdaI)|
+| 38             |Nett  |5. Pandas og databehandling |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar5_Pandas_og_databehandling.ipynb)|
+| 38             |Nett  |6. Logikk og løkker  |[Forelesning](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/notebooks/6%20-%20Logikk_løkker.ipynb)/[Video](https://youtu.be/YbAtgj7epfY)|
+| 38             |Nett  |6. Logikk og løkker  |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar6-Logikk_løkker.ipynb)|
+| 40             |Nett  |ARBEIDSKRAV UTLEVERES |LENKE TIL OPPGAVE |
+| 40             |Nett  |7.1 Matplotlib  |[Forelesning](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/notebooks/7.1%20-%20matplotlib.ipynb)|
+| 40             |Nett  |7.1 Matplotlib  |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar7.1_Matplotlib.ipynb)|
+| 40             |Nett  |7.2 SeaBorn  |[Forelesning](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/notebooks/7.2%20-%20SeaBorn.ipynb)|
+| 40             |Nett  |7.2 SeaBorn  |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar7.2_SeaBorn.ipynb)|
 | 44             |Nett  |INNLEVERING AV ARBEIDSKRAV |Canvas lenke for innlevering |
 | 44             |Nett  |9. Simulering  |[Forelesning](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/notebooks/9%20-%20simulering.ipynb)|
 | 44             |Nett  |9. Simulering  |Seminar/oppgaver fra forelesningsnotat|
