@@ -10,7 +10,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 
 | Uke            | Sted             | Tema               |Type               |
 |----------------|------------------|--------------------|--------------------|
-| 34             |Nett  |1. Introduksjon |[Forelesning](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/notebooks/1_Introduksjon.ipynb)|
+| 34             |Nett  |1. Introduksjon |[Forelesning](https://uit-bed-1504-h25.github.io/blob/main/notebooks/1_Introduksjon.ipynb)|
 | 34             |Nett  |1. Introduksjon |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar1-Introduksjon.ipynb)|
 | 34             |Nett  |2. Python Basics |[Forelesning](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/notebooks/2_Python_Basics.ipynb)/[Video](https://youtu.be/P7DCjp5QJCk)|
 | 34             |Nett  |2. Python Basics |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar2-PythonBasics.ipynb)|
