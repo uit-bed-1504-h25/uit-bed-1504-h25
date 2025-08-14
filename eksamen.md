@@ -1,5 +1,5 @@
 {% include navbar.html %}{% include top-box.html %}
-# Bed-1304 Python-lab (IKKE FERDIG!!!)
+# Bed-1504 Python-lab (IKKE FERDIG!!!)
 
 ## Arbeidskrav (Fyll inn)
 - I dette kurset har vi et arbeidskrav, det er innlevering av X (FYLL INN).
