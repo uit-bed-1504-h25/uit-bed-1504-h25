@@ -22,21 +22,22 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 38             |Nett  |5. Pandas og databehandling |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar5_Pandas_og_databehandling.ipynb)|   |
 | 40             |Nett  |6. Logikk og løkker  |[Forelesning](notebooks/6_Logikk_løkker.ipynb)/[Video](https://youtu.be/YbAtgj7epfY)| Kap 5, 7  |
 | 40             |Nett  |6. Logikk og løkker  |[Seminar](oppgaver/Seminar6-Logikk_løkker.ipynb)| Kap 5, 7  |
-| 40             |Nett  |ARBEIDSKRAV UTLEVERES |LENKE TIL OPPGAVE |   |
-| 40             |Nett  |7.1 Matplotlib  |[Forelesning](notebooks/7_1_Matplotlib.ipynb)|   |
+| 40             |Nett  |ARBEIDSKRAV UTLEVERES ||   |
+| 40             |Nett  |7.1 Matplotlib  |[Forelesning](notebooks/7_1_Matplotlib.ipynb)/[Video](https://youtu.be/ALb-Ie-pAx4)|   |
 | 40             |Nett  |7.1 Matplotlib  |[Seminar](oppgaver/Seminar7.1_Matplotlib.ipynb)|   |
-| 42             |Nett  |8. Sympy  |[Forelesning](notebooks/8_Sympy.ipynb)|   |
+| 42             |Nett  |8. Sympy  |[Forelesning](notebooks/8_Sympy.ipynb)/[Video](https://youtu.be/XAUuQ5sVijE)|   |
 | 42             |Nett  |8. Sympy  |[Seminar](oppgaver/Seminar8_Sympy.ipynb)|   |
-| 42             |Nett  |9. Simulering  |[Forelesning](notebooks/9_Simulering.ipynb)|   |
+| 42             |Nett  |9. Simulering  |[Forelesning](notebooks/9_Simulering.ipynb)/[Video](https://youtu.be/Vae0YXmOF8M)|   |
 | 42             |Nett  |9. Simulering  |Seminar/oppgaver fra forelesningsnotat|   |
-| 44             |Nett  |INNLEVERING AV ARBEIDSKRAV |Canvas lenke for innlevering |   |
+| 44             |Nett  |INNLEVERING AV ARBEIDSKRAV |Innlevering på Wiseflow 27.10 |   |
 | 46             |Nett  |Spørretime |Forberedelse til eksamen |   |
 |EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|   |
 |EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|   |
 |EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|   |
 | 10.11.2025 xx:xx-xx:xx  |Nett  |Spørretime |Seminar/Forberedelse til eksamen |   |
 | 11.11.2025 xx:xx-xx:xx  |Nett  |Spørretime |Forelesning (reserve - just in case)|   |
-| 25.11.2025              |Campus og Oslo  | DIGITAL SKOLEEKSAMEN      |-----------------------------|   |
+| 24.11.2025              |Campus og Oslo  | DIGITAL SKOLEEKSAMEN      |-----------------------------|   |
+
 
 
 
