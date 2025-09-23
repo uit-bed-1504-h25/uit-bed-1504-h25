@@ -13,7 +13,7 @@
 
 | Type oppgave             | Innleveringsfrist | Hvordan               |Vurdering               |
 |--------------------------|-------------------|-----------------------|------------------------|
-|Arbeidskrav               |  xx.xx            | Canvas                |Godkjent/Ikke-godkjent  |
+|Arbeidskrav               |  27.10           | Canvas                |Godkjent/Ikke-godkjent  |
 |Eksamen                   |  xx.xx            | Digital skoleeksamen  |100% av karaktergrunnlag|
 
 Arbeidskravet kan gjøres alene, eller i grupper, men leveres individuelt i Wiseflow. Eksamen er individuell.
