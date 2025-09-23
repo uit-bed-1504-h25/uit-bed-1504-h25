@@ -16,4 +16,4 @@
 |Arbeidskrav               |  xx.xx            | Canvas                |Godkjent/Ikke-godkjent  |
 |Eksamen                   |  xx.xx            | Digital skoleeksamen  |100% av karaktergrunnlag|
 
-Arbeidskravet kan gjøres alene, eller i grupper på to. Eksamen er individuell.
+Arbeidskravet kan gjøres alene, eller i grupper, men leveres individuelt i Wiseflow. Eksamen er individuell.
