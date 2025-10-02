@@ -20,7 +20,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 36             |Nett  |4. Lister, dict. og NumPy |[Seminar](oppgaver/Seminar4_Lister_Dict_Numpy.ipynb)| Kap 3, 4, 6  | |
 | 38             |Nett  |5. Pandas og databehandling |[Forelesning](notebooks/5_Pandas_og_databehandling.ipynb)/[Video](https://youtu.be/kPINFf-sdaI)|   | |
 | 38             |Nett  |5. Pandas og databehandling |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar5_Pandas_og_databehandling.ipynb)|   | |
-| 40             |Nett  |6. Logikk og løkker  |[Forelesning](notebooks/6_Logikk_løkker.ipynb)/[Video](https://youtu.be/YbAtgj7epfY)| Kap 5, 7  |[LF] (notebooks/6_Logikk_løkker_LF.ipynb) |
+| 40             |Nett  |6. Logikk og løkker  |[Forelesning](notebooks/6_Logikk_løkker.ipynb)/[Video](https://youtu.be/YbAtgj7epfY)| Kap 5, 7  |[LF](notebooks/6_Logikk_løkker_LF.ipynb) |
 | 40             |Nett  |6. Logikk og løkker  |[Seminar](oppgaver/Seminar6-Logikk_løkker.ipynb)| Kap 5, 7  | |
 | 40             |Nett  |ARBEIDSKRAV UTLEVERES ||   | |
 | 40             |Nett  |7.1 Matplotlib  |[Forelesning](notebooks/7_1_Matplotlib.ipynb)/[Video](https://youtu.be/ALb-Ie-pAx4)| Kap 15 | |
@@ -37,6 +37,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 10.11.2025 xx:xx-xx:xx  |Nett  |Spørretime |Seminar/Forberedelse til eksamen |   ||
 | 11.11.2025 xx:xx-xx:xx  |Nett  |Spørretime |Forelesning (reserve - just in case)|   ||
 | 24.11.2025              |Campus og Oslo  | DIGITAL SKOLEEKSAMEN      |-----------------------------|   ||
+
 
 
 
