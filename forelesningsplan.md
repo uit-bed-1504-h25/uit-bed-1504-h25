@@ -14,7 +14,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 34             |Nett  |1. Introduksjon |[Seminar](oppgaver/Seminar1-Introduksjon.ipynb)| Kap 1, 2  ||
 | 34             |Nett  |2. Python Basics |[Forelesning](notebooks/2_Python_Basics.ipynb)/[Video](https://youtu.be/P7DCjp5QJCk)|Kap 2, 5 ||
 | 34             |Nett  |2. Python Basics |[Seminar](oppgaver/Seminar2-PythonBasics.ipynb)| Kap 2, 5   ||
-| 36             |Nett  |3. Funksjoner    |[Forelesning](notebooks/3_Funksjoner.ipynb)/[Video](https://youtu.be/u1FSeJdB3LU)| Kap 8 ||
+| 36             |Nett  |3. Funksjoner    |[Forelesning](notebooks/3_Funksjoner.ipynb)/[Video](https://youtu.be/u1FSeJdB3LU)| Kap 8 |[LF](notebooks/3_Funksjoner_LF.ipynb)|
 | 36             |Nett  |3. Funksjoner    |[Seminar](oppgaver/Seminar3-Funksjoner.ipynb)| Kap 8 ||
 | 36             |Nett |4. Lister, dict. og NumPy |[Forelesning](notebooks/4_Lister_oppslag_numpy.ipynb)/[Video](https://youtu.be/kgcOG7q2dq4)| Kap 3, 4, 6  | |
 | 36             |Nett  |4. Lister, dict. og NumPy |[Seminar](oppgaver/Seminar4_Lister_Dict_Numpy.ipynb)| Kap 3, 4, 6  | |
@@ -37,6 +37,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 10.11.2025 xx:xx-xx:xx  |Nett  |Spørretime |Seminar/Forberedelse til eksamen |   ||
 | 11.11.2025 xx:xx-xx:xx  |Nett  |Spørretime |Forelesning (reserve - just in case)|   ||
 | 24.11.2025              |Campus og Oslo  | DIGITAL SKOLEEKSAMEN      |-----------------------------|   ||
+
 
 
 
