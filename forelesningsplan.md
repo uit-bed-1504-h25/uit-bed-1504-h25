@@ -30,13 +30,10 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 42             |Nett  |9. Simulering  |[Forelesning](notebooks/9_Simulering.ipynb)/[Video](https://youtu.be/Vae0YXmOF8M)|   | |
 | 42             |Nett  |9. Simulering  |Seminar/oppgaver fra forelesningsnotat|   ||
 | 44             |Nett  |INNLEVERING AV ARBEIDSKRAV |Innlevering på Wiseflow 27.10 |   ||
-| 46             |Nett  |Spørretime |Forberedelse til eksamen |   ||
-|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|   ||
-|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|   ||
-|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|   ||
-| 10.11.2025 xx:xx-xx:xx  |Nett  |Spørretime |Seminar/Forberedelse til eksamen |   ||
-| 11.11.2025 xx:xx-xx:xx  |Nett  |Spørretime |Forelesning (reserve - just in case)|   ||
+|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|
+| 46             |Nett  |Spørretime |Seminar/Forberedelse til eksamen |   ||
 | 24.11.2025              |Campus og Oslo  | DIGITAL SKOLEEKSAMEN      |-----------------------------|   ||
+
 
 
 
