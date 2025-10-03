@@ -23,8 +23,8 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 40             |Nett  |6. Logikk og løkker  |[Forelesning](notebooks/6_Logikk_løkker.ipynb)/[Video](https://youtu.be/YbAtgj7epfY)| Kap 5, 7  |[LF](notebooks/6_Logikk_loekker_LF.ipynb) |
 | 40             |Nett  |6. Logikk og løkker  |[Seminar](oppgaver/Seminar6-Logikk_løkker.ipynb)| Kap 5, 7  | |
 | 40             |Nett  |ARBEIDSKRAV UTLEVERES ||   | |
-| 40             |Nett  |7.1 Matplotlib  |[Forelesning](notebooks/7_1_Matplotlib.ipynb)/[Video](https://youtu.be/ALb-Ie-pAx4)| Kap 15 | |
-| 40             |Nett  |7.1 Matplotlib  |[Seminar](oppgaver/Seminar7.1_Matplotlib.ipynb)| Kap 15 | |
+| 40             |Nett  |7.1 Matplotlib  |[Forelesning](notebooks/7_1_Matplotlib.ipynb)/[Video](https://youtu.be/ALb-Ie-pAx4)| Kap 15 |[LF](notebooks/7_1_Matplotlib_LF.ipynb) |
+| 40             |Nett  |7.1 Matplotlib  |[Seminar](oppgaver/Seminar7.1_Matplotlib.ipynb)| Kap 15 | [LF](oppgaver/Seminar7.1_Matplotlib_LF.ipynb) |
 | 42             |Nett  |8. Sympy  |[Forelesning](notebooks/8_Sympy.ipynb)/[Video](https://youtu.be/XAUuQ5sVijE)|   | |
 | 42             |Nett  |8. Sympy  |[Seminar](oppgaver/Seminar8_SymPy.ipynb)|   | |
 | 42             |Nett  |9. Simulering  |[Forelesning](notebooks/9_Simulering.ipynb)/[Video](https://youtu.be/Vae0YXmOF8M)|   | |
@@ -37,6 +37,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 10.11.2025 xx:xx-xx:xx  |Nett  |Spørretime |Seminar/Forberedelse til eksamen |   ||
 | 11.11.2025 xx:xx-xx:xx  |Nett  |Spørretime |Forelesning (reserve - just in case)|   ||
 | 24.11.2025              |Campus og Oslo  | DIGITAL SKOLEEKSAMEN      |-----------------------------|   ||
+
 
 
 
