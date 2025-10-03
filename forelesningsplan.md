@@ -16,7 +16,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 34             |Nett  |2. Python Basics |[Seminar](oppgaver/Seminar2-PythonBasics.ipynb)| Kap 2, 5   ||
 | 36             |Nett  |3. Funksjoner    |[Forelesning](notebooks/3_Funksjoner.ipynb)/[Video](https://youtu.be/u1FSeJdB3LU)| Kap 8 |[LF](notebooks/3_Funksjoner_LF.ipynb)|
 | 36             |Nett  |3. Funksjoner    |[Seminar](oppgaver/Seminar3-Funksjoner.ipynb)| Kap 8 ||
-| 36             |Nett |4. Lister, dict. og NumPy |[Forelesning](notebooks/4_Lister_oppslag_numpy.ipynb)/[Video](https://youtu.be/kgcOG7q2dq4)| Kap 3, 4, 6  | |
+| 36             |Nett |4. Lister, dict. og NumPy |[Forelesning](notebooks/4_Lister_oppslag_numpy.ipynb)/[Video](https://youtu.be/kgcOG7q2dq4)| Kap 3, 4, 6  |[LF](notebooks/4_Lister_oppslag_numpy_LF.ipynb) |
 | 36             |Nett  |4. Lister, dict. og NumPy |[Seminar](oppgaver/Seminar4_Lister_Dict_Numpy.ipynb)| Kap 3, 4, 6  | |
 | 38             |Nett  |5. Pandas og databehandling |[Forelesning](notebooks/5_Pandas_og_databehandling.ipynb)/[Video](https://youtu.be/kPINFf-sdaI)|   | |
 | 38             |Nett  |5. Pandas og databehandling |[Seminar](https://github.com/uit-bed-1504-h25/uit-bed-1504-h25.github.io/blob/main/oppgaver/Seminar5_Pandas_og_databehandling.ipynb)|   | |
@@ -33,6 +33,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 |EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|
 | 46             |Nett  |Spørretime |Seminar/Forberedelse til eksamen |   ||
 | 24.11.2025              |Campus og Oslo  | DIGITAL SKOLEEKSAMEN      |-----------------------------|   ||
+
 
 
 
