@@ -1,5 +1,5 @@
 {% include navbar.html %}{% include top-box.html %}
-# Forelesningsplan og seminarer (endringer kan forekomme)
+# Forelesningsplan og seminarer 
 Her finner du informasjon om forelesningene og seminarene vi har i kurset.
 Denne vil oppdateres, og rom nr. finner dere på UiT sin timeplan [her](https://tp.educloud.no/uit/timeplan/timeplan.php?id%5B%5D=BED-1504%2C1&type=course&sem=25h&campus=&hide_old=0).
 
@@ -25,14 +25,15 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 40             |Nett  |ARBEIDSKRAV UTLEVERES ||   | |
 | 40             |Nett  |7.1 Matplotlib  |[Forelesning](notebooks/7_1_Matplotlib.ipynb)/[Video](https://youtu.be/ALb-Ie-pAx4)| Kap 15 |[LF](notebooks/7_1_Matplotlib_LF.ipynb) |
 | 40             |Nett  |7.1 Matplotlib  |[Seminar](oppgaver/Seminar7.1_Matplotlib.ipynb)| Kap 15 | [LF](oppgaver/Seminar7.1_Matplotlib_LF.ipynb) |
-| 42             |Nett  |8. Sympy  |[Forelesning](notebooks/8_Sympy.ipynb)/[Video](https://youtu.be/XAUuQ5sVijE)|   | |
-| 42             |Nett  |8. Sympy  |[Seminar](oppgaver/Seminar8_SymPy.ipynb)|   | |
-| 42             |Nett  |9. Simulering  |[Forelesning](notebooks/9_Simulering.ipynb)/[Video](https://youtu.be/Vae0YXmOF8M)|   | |
+| 42             |Nett  |8. Sympy  |[Forelesning](notebooks/8_Sympy.ipynb)/[Video](https://youtu.be/XAUuQ5sVijE)|   |[LF](notebooks/8_Sympy_LF.ipynb)|
+| 42             |Nett  |8. Sympy  |[Seminar](oppgaver/Seminar8_SymPy.ipynb)|   |[LF](notebooks/Seminar8_Sympy_LF.ipynb) |
+| 42             |Nett  |9. Simulering  |[Forelesning](notebooks/9_Simulering.ipynb)/[Video](https://youtu.be/Vae0YXmOF8M)|   |[LF](notebooks/9_Simulering_LF.ipynb) |
 | 42             |Nett  |9. Simulering  |Seminar/oppgaver fra forelesningsnotat|   ||
 | 44             |Nett  |INNLEVERING AV ARBEIDSKRAV |Innlevering på Wiseflow 27.10 |   ||
 |EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|
 | 46             |Nett  |Spørretime |Seminar/Forberedelse til eksamen |   ||
 | 24.11.2025              |Campus og Oslo  | DIGITAL SKOLEEKSAMEN      |-----------------------------|   ||
+
 
 
 
