@@ -12,16 +12,16 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 |----------------|------------------|--------------------|--------------------|----------------------------|---------------------|
 | 34             |Nett  |1. Introduksjon |[Forelesning](notebooks/1_Introduksjon.ipynb)| Kap 1, 2 |[LF](notebooks/1_Introduksjon_LF.ipynb)|
 | 34             |Nett  |1. Introduksjon |[Seminar](oppgaver/Seminar1-Introduksjon.ipynb)| Kap 1, 2  ||[LF](oppgaver/Seminar1_Introduksjon_LF.ipynb)|
-| 34             |Nett  |2. Python Basics |[Forelesning](notebooks/2_Python_Basics.ipynb)/[Video](https://youtu.be/P7DCjp5QJCk)|Kap 2, 5 ||
-| 34             |Nett  |2. Python Basics |[Seminar](oppgaver/Seminar2-PythonBasics.ipynb)| Kap 2, 5   |[Seminar](oppgaver/Seminar2_PythonBasics_LF.ipynb)|
+| 34             |Nett  |2. Python Basics |[Forelesning](notebooks/2_Python_Basics.ipynb)/[Video](https://youtu.be/P7DCjp5QJCk)|Kap 2, 5 |[LF](notebooks/2_Python_Basics.ipynb)|
+| 34             |Nett  |2. Python Basics |[Seminar](oppgaver/Seminar2-PythonBasics.ipynb)| Kap 2, 5   |[LF](oppgaver/Seminar2_PythonBasics_LF.ipynb)|
 | 36             |Nett  |3. Funksjoner    |[Forelesning](notebooks/3_Funksjoner.ipynb)/[Video](https://youtu.be/u1FSeJdB3LU)| Kap 8 |[LF](notebooks/3_Funksjoner_LF.ipynb)|
-| 36             |Nett  |3. Funksjoner    |[Seminar](oppgaver/Seminar3-Funksjoner.ipynb)| Kap 8 |[Seminar](oppgaver/Seminar3_Funksjoner_LF.ipynb)|
+| 36             |Nett  |3. Funksjoner    |[Seminar](oppgaver/Seminar3-Funksjoner.ipynb)| Kap 8 |[LF](oppgaver/Seminar3_Funksjoner_LF.ipynb)|
 | 36             |Nett |4. Lister, dict. og NumPy |[Forelesning](notebooks/4_Lister_oppslag_numpy.ipynb)/[Video](https://youtu.be/kgcOG7q2dq4)| Kap 3, 4, 6  |[LF](notebooks/4_Lister_oppslag_numpy_LF.ipynb) |
 | 36             |Nett  |4. Lister, dict. og NumPy |[Seminar](oppgaver/Seminar4_Lister_Dict_Numpy.ipynb)| Kap 3, 4, 6  |[LF](oppgaver/Seminar4_Lister_Dict_Numpy_LF.ipynb) |
 | 38             |Nett  |5. Pandas og databehandling |[Forelesning](notebooks/5_Pandas_og_databehandling.ipynb)/[Video](https://youtu.be/kPINFf-sdaI)|   | [LF](notebooks/5_Pandas_og_databehandling_LF.ipynb) |
 | 38             |Nett  |5. Pandas og databehandling |[Seminar](oppgaver/Seminar5_Pandas_og_databehandling.ipynb)|   |[LF](oppgaver/Seminar5_Pandas_og_databehandling_LF.ipynb)|
 | 40             |Nett  |6. Logikk og løkker  |[Forelesning](notebooks/6_Logikk_løkker.ipynb)/[Video](https://youtu.be/YbAtgj7epfY)| Kap 5, 7  |[LF](notebooks/6_Logikk_loekker_LF.ipynb) |
-| 40             |Nett  |6. Logikk og løkker  |[Seminar](oppgaver/Seminar6-Logikk_løkker.ipynb)| Kap 5, 7  |[LF](oppgaver/Seminar6-Logikk_løkker.ipynb) |
+| 40             |Nett  |6. Logikk og løkker  |[Seminar](oppgaver/Seminar6-Logikk_løkker.ipynb)| Kap 5, 7  |[LF](oppgaver/Seminar6-Logikk_løkker_LF.ipynb) |
 | 40             |Nett  |ARBEIDSKRAV UTLEVERES ||   | |
 | 40             |Nett  |7.1 Matplotlib  |[Forelesning](notebooks/7_1_Matplotlib.ipynb)/[Video](https://youtu.be/ALb-Ie-pAx4)| Kap 15 |[LF](notebooks/7_1_Matplotlib_LF.ipynb) |
 | 40             |Nett  |7.1 Matplotlib  |[Seminar](oppgaver/Seminar7.1_Matplotlib.ipynb)| Kap 15 | [LF](oppgaver/Seminar7.1_Matplotlib_LF.ipynb) |
@@ -33,6 +33,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 |EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|
 | 46             |Nett  |Spørretime |Seminar/Forberedelse til eksamen |   ||
 | 24.11.2025              |Campus og Oslo  | DIGITAL SKOLEEKSAMEN      |-----------------------------|   ||
+
 
 
 
