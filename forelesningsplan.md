@@ -10,7 +10,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 
 | Uke            | Sted             | Tema               |Type                |Kap fra lærebok PyChrashC   | Løsningsforslag (LF)|
 |----------------|------------------|--------------------|--------------------|----------------------------|---------------------|
-| 34             |Nett  |1. Introduksjon |[Forelesning](notebooks/1_Introduksjon.ipynb)| Kap 1, 2 |[LF](notebooks/1_Introduksjon_LF.ipynb)|
+| 34             |Nett  |1. Introduksjon |[Forelesning](notebooks/1_Introduksjon_2.ipynb)| Kap 1, 2 |[LF](notebooks/1_Introduksjon_LF_2.ipynb)|
 | 34             |Nett  |1. Introduksjon |[Seminar](oppgaver/Seminar1-Introduksjon.ipynb)| Kap 1, 2  |[LF](oppgaver/Seminar1_Introduksjon_LF.ipynb)|
 | 34             |Nett  |2. Python Basics |[Forelesning](notebooks/2_Python_Basics.ipynb)/[Video](https://youtu.be/P7DCjp5QJCk)|Kap 2, 5 |[LF](notebooks/2_Python_Basics_LF.ipynb)|
 | 34             |Nett  |2. Python Basics |[Seminar](oppgaver/Seminar2-PythonBasics.ipynb)| Kap 2, 5   |[LF](oppgaver/Seminar2_PythonBasics_LF.ipynb)|
@@ -33,6 +33,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 |EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|EGENSTUDIUM|
 | 46             |Nett  |Spørretime |Seminar/Forberedelse til eksamen |   ||
 | 24.11.2025              |Campus og Oslo  | DIGITAL SKOLEEKSAMEN      |-----------------------------|   ||
+
 
 
 
