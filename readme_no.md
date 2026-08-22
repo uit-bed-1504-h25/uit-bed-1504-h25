@@ -48,7 +48,7 @@ Det første vi må gjøre er å lage en "organisasjon", som skal eie kurssiden. 
 4. Om du ikke kan se "github-pages"-lenken, selv etter å ha ventet noen minutter, kan du aktivere nettsiden i "Settings" i repomenyen. Velg "Pages" i venstremenyen og "main" i nedtrekksmenyen "Branch". Klikk så på "Save".<br><br>
 			
 ## 4. Rediger repoen
-1. Rediger repoinstillingene i "\_config.yml" ved å trykke på filen og så pennikonet oppe mot høyre. <br><br>Du trenger kun redigere de tre første linjene (om du ikke vil endre avanserte instillinger). De første tre linjene er:
+1. Rediger repoinnstillingene i "\_config.yml" ved å trykke på filen og så pennikonet oppe mot høyre. <br><br>Du trenger kun redigere de tre første linjene (om du ikke vil endre avanserte innstillinger). De første tre linjene er:
 
 	* **name: Sok-xxxx Emnetittel**: <br>
 	Nødvendig. Må endres til gjeldende kurskode.<br><br>
